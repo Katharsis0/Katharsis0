@@ -35,7 +35,7 @@
 
 ---
 
-**Currently:** Logic Design Engineer student intern at Intel — RTL design, formal verification, and agentic tooling.
+**Currently:** Logic Design Engineer student intern at Intel  |->  RTL design, formal verification, and agentic tooling.
 
 **Outside work:** Building a community in Costa Rica using hardware and software to make this world a happier &nbsp;·&nbsp; better place for everyone. 
 
