@@ -39,9 +39,14 @@
 
 **Outside work:** Building a community in Costa Rica using hardware and software to make this world a happier &nbsp;·&nbsp; better place for everyone. 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=termate)
+
 
 <img src="https://raw.githubusercontent.com/Katharsis0/Katharsis0/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=termate)
 
 ###
 
