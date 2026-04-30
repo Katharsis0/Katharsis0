@@ -1,15 +1,40 @@
-# Learning, creating and growing.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hvsebas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hvsebas@gmail.com) 
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# Hi, I'm Sebastian 👋
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Katharsis0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  Computer Engineer &nbsp;·&nbsp; Logic Design Intern @ Intel &nbsp;·&nbsp; Learning how to build stuff that will run on silicon. 
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Katharsis0&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### // day job
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1e3a5f?style=flat&logo=intel&logoColor=85b7eb)
+![Verilog](https://img.shields.io/badge/Verilog-1e3a5f?style=flat&logo=intel&logoColor=85b7eb)
+![Python](https://img.shields.io/badge/Python-1a3d2b?style=flat&logo=python&logoColor=97c459)
+![Perl](https://img.shields.io/badge/Perl-333?style=flat&logo=perl&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-333?style=flat)
+![Formal Verification](https://img.shields.io/badge/Formal%20Verification-333?style=flat)
+![Validation](https://img.shields.io/badge/Validation-333?style=flat)
+![Agentic Dev](https://img.shields.io/badge/Agentic%20Dev-333?style=flat)
+
+### // systems & embedded
+![C/C++](https://img.shields.io/badge/C%2FC++-3b1a1a?style=flat&logo=cplusplus&logoColor=f09595)
+![ESP32](https://img.shields.io/badge/ESP32-2a1f00?style=flat&logo=espressif&logoColor=ef9f27)
+![Arduino](https://img.shields.io/badge/Arduino-2a1f00?style=flat&logo=arduino&logoColor=ef9f27)
+![FPGA](https://img.shields.io/badge/FPGA-2a1f00?style=flat&logoColor=ef9f27)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-2a1f00?style=flat)
+
+### // apps & web
+![Kotlin](https://img.shields.io/badge/Kotlin%2FJava-1e1535?style=flat&logo=kotlin&logoColor=afa9ec)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1e1535?style=flat&logo=androidstudio&logoColor=afa9ec)
+![React](https://img.shields.io/badge/React-1e1535?style=flat&logo=react&logoColor=afa9ec)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b3040?style=flat&logo=postgresql&logoColor=5dcaa5)
+
+### // also
+> 3D modeling &nbsp;·&nbsp; hardware recycling &nbsp;·&nbsp; internet of things &nbsp;·&nbsp; mesh networking &nbsp;·&nbsp; free and open source
+
+---
+
+**Currently:** Logic Design Engineer student intern at Intel — RTL design, formal verification, and agentic tooling.
+
+**Outside work:** Building a community in Costa Rica using hardware and software to make this world a happier &nbsp;·&nbsp; better place for everyone. 
