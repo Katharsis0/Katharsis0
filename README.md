@@ -41,8 +41,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=termate)
 
-###
-
 <img src="https://raw.githubusercontent.com/Katharsis0/Katharsis0/output/snake.svg" alt="Snake animation" />
 
 ###
