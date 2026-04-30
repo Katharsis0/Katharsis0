@@ -38,3 +38,18 @@
 **Currently:** Logic Design Engineer student intern at Intel — RTL design, formal verification, and agentic tooling.
 
 **Outside work:** Building a community in Costa Rica using hardware and software to make this world a happier &nbsp;·&nbsp; better place for everyone. 
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=termate)
+
+###
+
+<img src="https://raw.githubusercontent.com/Katharsis0/Katharsis0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
