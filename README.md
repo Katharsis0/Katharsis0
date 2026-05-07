@@ -20,7 +20,6 @@
 ### // systems & embedded
 ![C/C++](https://img.shields.io/badge/C%2FC++-3b1a1a?style=flat&logo=cplusplus&logoColor=f09595)
 ![ESP32](https://img.shields.io/badge/ESP32-2a1f00?style=flat&logo=espressif&logoColor=ef9f27)
-![Arduino](https://img.shields.io/badge/Arduino-2a1f00?style=flat&logo=arduino&logoColor=ef9f27)
 ![FPGA](https://img.shields.io/badge/FPGA-2a1f00?style=flat&logoColor=ef9f27)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-2a1f00?style=flat)
 
