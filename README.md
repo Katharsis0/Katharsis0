@@ -2,7 +2,7 @@
 # Hi, I'm Sebastian 👋
 
 <p align="left">
-  Computer Engineer &nbsp;·&nbsp; Logic Design Intern @ Intel &nbsp;·&nbsp; Learning how to build stuff that will run on silicon. 
+  Computer Engineer &nbsp;·&nbsp; Logic Design Intern @ Intel &nbsp;·&nbsp; 
 </p>
 
 ---
